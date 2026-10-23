@@ -6,7 +6,7 @@ public class BlueStudent : MonoBehaviour
     void Start()
     {
         //Modification Blue Student 
-        //Modification Blue Student 
+        //Modification Red Student
     }
 
     // Update is called once per frame
